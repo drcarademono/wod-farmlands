@@ -1,3 +1,16 @@
+import json
+
+def read_json_file(filename):
+    try:
+        with open(filename, 'r') as file:
+            return json.load(file)
+    except json.JSONDecodeError as e:
+        print(f"Error reading JSON file: {e}")
+        return None
+    except FileNotFoundError:
+        print(f"File not found: {filename}")
+        return None
+
 def read_bytes_file(filename):
     with open(filename, 'rb') as file:
         return file.read()
@@ -38,12 +51,25 @@ def check_coordinate(x, y, road_data, track_data, width):
 
     return {'roads': road_paths, 'tracks': track_paths}
 
-# Example usage
-road_data = read_bytes_file('roadData.bytes')
-track_data = read_bytes_file('trackData.bytes')
-x, y = 665, 392  # Example coordinates
-width = 1000  # Width of the Daggerfall map
+# Read JSON file
+json_data = read_json_file('locationnew-randomfarm0-1.json')
 
-paths = check_coordinate(x, y, road_data, track_data, width)
-print(paths)
+# Check if json_data is not None and has the expected keys in the nested structure
+if json_data and 'MapTableData' in json_data and 'Latitude' in json_data['MapTableData'] and 'Longitude' in json_data['MapTableData']:
+    # Extract and transform coordinates
+    latitude = json_data['MapTableData']['Latitude']
+    longitude = json_data['MapTableData']['Longitude']
+    y = 499 - (latitude // 128)
+    x = longitude // 128
+
+    # Read road and track data
+    road_data = read_bytes_file('roadData.bytes')
+    track_data = read_bytes_file('trackData.bytes')
+    width = 1000  # Width of the Daggerfall map
+
+    # Check paths at the coordinates
+    paths = check_coordinate(x, y, road_data, track_data, width)
+    print(paths)
+else:
+    print("JSON data is invalid or missing 'MapTableData', 'Latitude', or 'Longitude' keys.")
 
