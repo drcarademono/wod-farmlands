@@ -1,14 +1,13 @@
 import json
+import os
+import csv
 
 def read_json_file(filename):
     try:
         with open(filename, 'r') as file:
             return json.load(file)
-    except json.JSONDecodeError as e:
-        print(f"Error reading JSON file: {e}")
-        return None
-    except FileNotFoundError:
-        print(f"File not found: {filename}")
+    except Exception as e:
+        print(f"Error reading file {filename}: {e}")
         return None
 
 def read_bytes_file(filename):
@@ -51,25 +50,33 @@ def check_coordinate(x, y, road_data, track_data, width):
 
     return {'roads': road_paths, 'tracks': track_paths}
 
-# Read JSON file
-json_data = read_json_file('locationnew-randomfarm0-1.json')
+def process_json_files(directory):
+    results = []
+    for filename in os.listdir(directory):
+        if filename.endswith('.json'):
+            json_data = read_json_file(os.path.join(directory, filename))
+            if json_data and 'MapTableData' in json_data and 'Latitude' in json_data['MapTableData'] and 'Longitude' in json_data['MapTableData']:
+                latitude = json_data['MapTableData']['Latitude']
+                longitude = json_data['MapTableData']['Longitude']
+                y = 499 - (latitude // 128)
+                x = longitude // 128
 
-# Check if json_data is not None and has the expected keys in the nested structure
-if json_data and 'MapTableData' in json_data and 'Latitude' in json_data['MapTableData'] and 'Longitude' in json_data['MapTableData']:
-    # Extract and transform coordinates
-    latitude = json_data['MapTableData']['Latitude']
-    longitude = json_data['MapTableData']['Longitude']
-    y = 499 - (latitude // 128)
-    x = longitude // 128
+                paths = check_coordinate(x, y, road_data, track_data, width)
+                results.append([filename, *paths['roads'].values(), *paths['tracks'].values()])
+    return results
 
-    # Read road and track data
-    road_data = read_bytes_file('roadData.bytes')
-    track_data = read_bytes_file('trackData.bytes')
-    width = 1000  # Width of the Daggerfall map
+def write_to_csv(data, filename):
+    headers = ['json_filename', *['road_' + dir for dir in ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW']], *['track_' + dir for dir in ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW']]]
+    with open(filename, 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(headers)
+        writer.writerows(data)
 
-    # Check paths at the coordinates
-    paths = check_coordinate(x, y, road_data, track_data, width)
-    print(paths)
-else:
-    print("JSON data is invalid or missing 'MapTableData', 'Latitude', or 'Longitude' keys.")
+# Load road and track data
+road_data = read_bytes_file('roadData.bytes')
+track_data = read_bytes_file('trackData.bytes')
+width = 1000  # Width of the Daggerfall map
 
+# Process all JSON files and write results to CSV
+results = process_json_files('.')
+write_to_csv(results, 'RoadsTracks.csv')
