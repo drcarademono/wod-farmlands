@@ -61,6 +61,23 @@ def get_new_block_name(base_block, direction, path_type):
     new_suffix = f"_{path_type}{direction}.RMB"
     return base_block.split('.')[0] + new_suffix
 
+def find_block_names(data):
+    if isinstance(data, dict):
+        for key, value in data.items():
+            if key == 'BlockNames' and isinstance(value, list):
+                return value
+            elif isinstance(value, (dict, list)):
+                result = find_block_names(value)
+                if result is not None:
+                    return result
+    elif isinstance(data, list):
+        for item in data:
+            if isinstance(item, (dict, list)):
+                result = find_block_names(item)
+                if result is not None:
+                    return result
+    return None
+
 def process_json_files(directory, roads_tracks):
     print("Processing JSON files...")
     for filename in os.listdir(directory):
@@ -71,21 +88,24 @@ def process_json_files(directory, roads_tracks):
                     data = json.load(json_file)
                 print(f"Reading JSON file: {filename}")
 
-                if 'ExteriorData' in data and 'BlockNames' in data['ExteriorData']:
-                    block_names = data['ExteriorData']['BlockNames']
-                    size = int(math.sqrt(len(block_names)))
-                    directions = get_direction(roads_tracks.get(filename, {}))
+                block_names = find_block_names(data)
+                if not block_names:
+                    print(f"'BlockNames' not found in {filename}")
+                    continue
 
-                    print(f"Checking blocks in file: {filename}")
-                    for i, block in enumerate(block_names):
-                        path_type = 'R' if directions['road'] else 'T'
-                        direction = directions['road'] if directions['road'] else directions['track']
-                        if direction and should_replace_block(i, size, direction):
-                            new_block = get_new_block_name(block, direction, path_type)
-                            print(f"Replacing block '{block}' with '{new_block}' in '{filename}'")
-                            data['ExteriorData']['BlockNames'][i] = new_block
-                        else:
-                            print(f"No replacement needed for block '{block}' in '{filename}'")
+                size = int(math.sqrt(len(block_names)))
+                if filename not in roads_tracks:
+                    print(f"No matching Roads/Tracks data for {filename}")
+                    continue
+
+                directions = get_direction(roads_tracks[filename])
+                for i, block in enumerate(block_names):
+                    path_type = 'R' if directions['road'] else 'T'
+                    direction = directions['road'] if directions['road'] else directions['track']
+                    if direction and should_replace_block(i, size, direction):
+                        new_block = get_new_block_name(block, direction, path_type)
+                        print(f"Replacing block '{block}' with '{new_block}' in '{filename}'")
+                        block_names[i] = new_block
 
                 with open(json_path, 'w') as json_file:
                     json.dump(data, json_file, indent=4)
