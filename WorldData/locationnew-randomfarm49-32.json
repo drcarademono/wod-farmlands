@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"The Old Yeomhouse Farmstead","RegionName":"Northmoor","HasDungeon":false,"MapTableData":{"MapId":59220,"Latitude":56320,"Longitude":28160,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":3620},"Exterior":{"RecordElement":{"Header":{"X":7223296,"Y":1947649,"IsExterior":32768,"Unknown2":0,"LocationId":3620,"IsInterior":0,"ExteriorLocationId":3620,"LocationName":"The Old Yeomhouse Farmstead"}},"BuildingCount":32,"Buildings":[{"NameSeed":668,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":17,"Quality":18},{"NameSeed":33667,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":14},{"NameSeed":7951,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":16},{"NameSeed":11141,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":494,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":6006,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":16556,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":15,"Quality":5},{"NameSeed":50638,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":51784,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":64030,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":20},{"NameSeed":19952,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":52605,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":45116,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":7},{"NameSeed":23634,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":17170,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":38214,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":59848,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":36407,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":56420,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":53345,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":11},{"NameSeed":17347,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":17},{"NameSeed":23570,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":55943,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":15935,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":13091,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":19651,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":1},{"NameSeed":12477,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":20},{"NameSeed":10474,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":64784,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":9},{"NameSeed":34959,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":18},{"NameSeed":48329,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":3},{"NameSeed":47158,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":10}],"ExteriorData":{"AnotherName":"The Old Yeomhouse Farmstead","MapId":59220,"LocationId":3620,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMBA09.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":224,"ClimateType":0,"NatureSet":503,"GroundArchive":2,"NatureArchive":503,"SkyBase":8,"People":2,"Names":0},"Politic":32,"RegionIndex":160,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "The Old Yeomhouse Farmstead",
+    "RegionName": "Northmoor",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 59220,
+        "Latitude": 56320,
+        "Longitude": 28160,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 3620
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 7223296,
+                "Y": 1947649,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 3620,
+                "IsInterior": 0,
+                "ExteriorLocationId": 3620,
+                "LocationName": "The Old Yeomhouse Farmstead"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 668,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 17,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 33667,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 7951,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 11141,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 494,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 6006,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 16556,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 15,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 50638,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 51784,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 64030,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 19952,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 52605,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 45116,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 23634,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 17170,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 38214,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 59848,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 36407,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 56420,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 53345,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 17347,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 23570,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 55943,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 15935,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 13091,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 19651,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 12477,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 10474,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 64784,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 34959,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 48329,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 47158,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 10
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Yeomhouse Farmstead",
+            "MapId": 59220,
+            "LocationId": 3620,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA00_TNS.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": 0,
+        "NatureSet": 503,
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": 2,
+        "Names": 0
+    },
+    "Politic": 32,
+    "RegionIndex": 160,
+    "LocationIndex": 0
+}

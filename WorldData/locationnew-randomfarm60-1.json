@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"The Guct Farmstead","RegionName":"Dragontail Mountains","HasDungeon":false,"MapTableData":{"MapId":453793,"Latitude":5888,"Longitude":101504,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":1780},"Exterior":{"RecordElement":{"Header":{"X":25999360,"Y":14858241,"IsExterior":32768,"Unknown2":0,"LocationId":1780,"IsInterior":0,"ExteriorLocationId":1780,"LocationName":"The Guct Farmstead"}},"BuildingCount":32,"Buildings":[{"NameSeed":32847,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":53728,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":19620,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":9108,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":20896,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":15461,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":5147,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":42582,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":26274,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":20},{"NameSeed":46849,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":4},{"NameSeed":41277,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":18},{"NameSeed":60410,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":43854,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":52959,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":48969,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":54672,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":41736,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":43442,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":38553,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":55536,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":27697,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":14},{"NameSeed":29829,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":36001,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":11},{"NameSeed":49872,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":11},{"NameSeed":53809,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":4},{"NameSeed":20303,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":8},{"NameSeed":65358,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":8},{"NameSeed":59337,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":12},{"NameSeed":33674,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":13},{"NameSeed":47227,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":11},{"NameSeed":63533,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":18},{"NameSeed":20785,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":8}],"ExteriorData":{"AnotherName":"The Guct Farmstead","MapId":453793,"LocationId":1780,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMAA03.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":227,"ClimateType":400,"NatureSet":500,"GroundArchive":402,"NatureArchive":500,"SkyBase":24,"People":2,"Names":0},"Politic":1,"RegionIndex":129,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "The Guct Farmstead",
+    "RegionName": "Dragontail Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 453793,
+        "Latitude": 5888,
+        "Longitude": 101504,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 1780
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25999360,
+                "Y": 14858241,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 1780,
+                "IsInterior": 0,
+                "ExteriorLocationId": 1780,
+                "LocationName": "The Guct Farmstead"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 32847,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 53728,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 19620,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 9108,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 20896,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 15461,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 5147,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 42582,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 26274,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 46849,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 41277,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 60410,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 43854,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 52959,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 48969,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 54672,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 41736,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 43442,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 38553,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 55536,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 27697,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 29829,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 36001,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 49872,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 53809,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 20303,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 65358,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 59337,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 33674,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 47227,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 63533,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 20785,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Guct Farmstead",
+            "MapId": 453793,
+            "LocationId": 1780,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00_REW.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": 400,
+        "NatureSet": 500,
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": 2,
+        "Names": 0
+    },
+    "Politic": 1,
+    "RegionIndex": 129,
+    "LocationIndex": 0
+}

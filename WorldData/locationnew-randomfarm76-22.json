@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"The T'uldba Farmstead","RegionName":"Lainlyn","HasDungeon":false,"MapTableData":{"MapId":312721,"Latitude":23936,"Longitude":92288,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":6264},"Exterior":{"RecordElement":{"Header":{"X":23640064,"Y":10237953,"IsExterior":32768,"Unknown2":0,"LocationId":6264,"IsInterior":0,"ExteriorLocationId":6264,"LocationName":"The T'uldba Farmstead"}},"BuildingCount":32,"Buildings":[{"NameSeed":60473,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":16443,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":30558,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":11},{"NameSeed":38741,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":42747,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":27822,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":4},{"NameSeed":19886,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":61482,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":51055,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":60325,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":8},{"NameSeed":44795,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":56351,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":20},{"NameSeed":50211,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":2},{"NameSeed":32090,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":4887,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":4},{"NameSeed":25335,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":2277,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":47097,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":48584,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":27600,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":14243,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":33623,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":3319,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":14},{"NameSeed":14602,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":38046,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":12},{"NameSeed":55875,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":18},{"NameSeed":21588,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":19},{"NameSeed":9570,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":36829,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":18},{"NameSeed":61628,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":19},{"NameSeed":14425,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":8},{"NameSeed":64835,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":14}],"ExteriorData":{"AnotherName":"The T'uldba Farmstead","MapId":312721,"LocationId":6264,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMAA06.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":228,"ClimateType":400,"NatureSet":502,"GroundArchive":402,"NatureArchive":502,"SkyBase":24,"People":3,"Names":0},"Politic":22,"RegionIndex":150,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "The T'uldba Farmstead",
+    "RegionName": "Lainlyn",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 312721,
+        "Latitude": 23936,
+        "Longitude": 92288,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 6264
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 23640064,
+                "Y": 10237953,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 6264,
+                "IsInterior": 0,
+                "ExteriorLocationId": 6264,
+                "LocationName": "The T'uldba Farmstead"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 60473,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16443,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 30558,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 38741,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 42747,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 27822,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 19886,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 61482,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 51055,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 60325,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 44795,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 56351,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 50211,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 32090,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 4887,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 25335,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 2277,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 47097,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 48584,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 27600,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 14243,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 33623,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 3319,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 14602,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 38046,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 55875,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 21588,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 9570,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 36829,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 61628,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 14425,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 64835,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The T'uldba Farmstead",
+            "MapId": 312721,
+            "LocationId": 6264,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00_RNS.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": 400,
+        "NatureSet": 502,
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": 3,
+        "Names": 0
+    },
+    "Politic": 22,
+    "RegionIndex": 150,
+    "LocationIndex": 0
+}

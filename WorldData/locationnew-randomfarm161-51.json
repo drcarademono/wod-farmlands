@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"M'ofyl Farm","RegionName":"Totambu","HasDungeon":false,"MapTableData":{"MapId":352781,"Latitude":18816,"Longitude":99968,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":5120},"Exterior":{"RecordElement":{"Header":{"X":25606144,"Y":11548673,"IsExterior":32768,"Unknown2":0,"LocationId":5120,"IsInterior":0,"ExteriorLocationId":5120,"LocationName":"M'ofyl Farm"}},"BuildingCount":32,"Buildings":[{"NameSeed":15320,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":2841,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":12680,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":13533,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":43663,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":4},{"NameSeed":49483,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":14},{"NameSeed":59811,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":19965,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":17},{"NameSeed":39512,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":17465,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":42775,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":17},{"NameSeed":34525,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":30204,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":42664,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":52593,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":17511,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":52378,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":12},{"NameSeed":20949,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":36340,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":56011,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":3996,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":34117,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":46956,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":63671,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":6820,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":11},{"NameSeed":15199,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":4},{"NameSeed":14090,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":16},{"NameSeed":36286,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":14},{"NameSeed":55889,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":20},{"NameSeed":297,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":11},{"NameSeed":18868,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":9},{"NameSeed":59314,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":14}],"ExteriorData":{"AnotherName":"M'ofyl Farm","MapId":352781,"LocationId":5120,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMAA01.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":228,"ClimateType":400,"NatureSet":502,"GroundArchive":402,"NatureArchive":502,"SkyBase":24,"People":3,"Names":0},"Politic":51,"RegionIndex":179,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "M'ofyl Farm",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 352781,
+        "Latitude": 18816,
+        "Longitude": 99968,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 5120
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 25606144,
+                "Y": 11548673,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 5120,
+                "IsInterior": 0,
+                "ExteriorLocationId": 5120,
+                "LocationName": "M'ofyl Farm"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 15320,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 2841,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 12680,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 13533,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 43663,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 49483,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 59811,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 19965,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 39512,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 17465,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 42775,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 34525,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 30204,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 42664,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 52593,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 17511,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 52378,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 20949,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 36340,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 56011,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 3996,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 34117,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 46956,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 63671,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 6820,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 15199,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 14090,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 36286,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 55889,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 297,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 18868,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 59314,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "M'ofyl Farm",
+            "MapId": 352781,
+            "LocationId": 5120,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00_TNS.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": 400,
+        "NatureSet": 502,
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": 3,
+        "Names": 0
+    },
+    "Politic": 51,
+    "RegionIndex": 179,
+    "LocationIndex": 0
+}

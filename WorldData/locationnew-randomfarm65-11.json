@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"The Old Techur Farm","RegionName":"Dak'fron","HasDungeon":false,"MapTableData":{"MapId":469509,"Latitude":3840,"Longitude":65152,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":29584},"Exterior":{"RecordElement":{"Header":{"X":16693248,"Y":15382529,"IsExterior":32768,"Unknown2":0,"LocationId":29584,"IsInterior":0,"ExteriorLocationId":29584,"LocationName":"The Old Techur Farm"}},"BuildingCount":32,"Buildings":[{"NameSeed":33113,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":8},{"NameSeed":63580,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":11},{"NameSeed":59352,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":4},{"NameSeed":33404,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":18},{"NameSeed":32733,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":11},{"NameSeed":21083,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":19},{"NameSeed":7570,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":24242,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":40527,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":14},{"NameSeed":30761,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":43206,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":50690,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":12},{"NameSeed":39862,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":11317,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":12158,"FactionId":236,"Sector":0,"LocationId":0,"BuildingType":2,"Quality":7},{"NameSeed":25939,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":42541,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":44895,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":9726,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":63899,"FactionId":510,"Sector":0,"LocationId":0,"BuildingType":6,"Quality":12},{"NameSeed":52253,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":45573,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":5},{"NameSeed":50563,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":16},{"NameSeed":10304,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":16643,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":14761,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":24774,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":4},{"NameSeed":42370,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":65064,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":12},{"NameSeed":2567,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":14327,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":33619,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":0,"Quality":14}],"ExteriorData":{"AnotherName":"The Old Techur Farm","MapId":469509,"LocationId":29584,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMAA00.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":232,"ClimateType":300,"NatureSet":508,"GroundArchive":302,"NatureArchive":508,"SkyBase":16,"People":3,"Names":0},"Politic":11,"RegionIndex":139,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "The Old Techur Farm",
+    "RegionName": "Dak'fron",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 469509,
+        "Latitude": 3840,
+        "Longitude": 65152,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 29584
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 16693248,
+                "Y": 15382529,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 29584,
+                "IsInterior": 0,
+                "ExteriorLocationId": 29584,
+                "LocationName": "The Old Techur Farm"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 33113,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 63580,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 59352,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 33404,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 32733,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 21083,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 7570,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 24242,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 40527,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 30761,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 43206,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 50690,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 39862,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 11317,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 12158,
+                "FactionId": 236,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 2,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 25939,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 42541,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 44895,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 9726,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 63899,
+                "FactionId": 510,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 6,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 52253,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 45573,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 50563,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 10304,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 16643,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 14761,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 24774,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 42370,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 65064,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 2567,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 14327,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 33619,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 0,
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Techur Farm",
+            "MapId": 469509,
+            "LocationId": 29584,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00_TSENW.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 232,
+        "ClimateType": 300,
+        "NatureSet": 508,
+        "GroundArchive": 302,
+        "NatureArchive": 508,
+        "SkyBase": 16,
+        "People": 3,
+        "Names": 0
+    },
+    "Politic": 11,
+    "RegionIndex": 139,
+    "LocationIndex": 0
+}

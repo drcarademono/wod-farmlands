@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"The Greencroft Grange","RegionName":"Wayrest","HasDungeon":false,"MapTableData":{"MapId":208874,"Latitude":37248,"Longitude":111872,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":8002},"Exterior":{"RecordElement":{"Header":{"X":28653568,"Y":6830081,"IsExterior":32768,"Unknown2":0,"LocationId":8002,"IsInterior":0,"ExteriorLocationId":8002,"LocationName":"The Greencroft Grange"}},"BuildingCount":32,"Buildings":[{"NameSeed":2463,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":39715,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":15,"Quality":7},{"NameSeed":27278,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":19},{"NameSeed":20552,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":26328,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":11},{"NameSeed":39662,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":51831,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":37941,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":1},{"NameSeed":5857,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":59845,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":11},{"NameSeed":11814,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":51985,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":51465,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":11076,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":65331,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":18801,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":14},{"NameSeed":58257,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":62759,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":20},{"NameSeed":45452,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":50672,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":31518,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":17},{"NameSeed":57800,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":40968,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":57640,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":53517,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":49370,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":18},{"NameSeed":46475,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":2},{"NameSeed":52871,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":17499,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":11},{"NameSeed":35415,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":15},{"NameSeed":34559,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":3},{"NameSeed":16397,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":6}],"ExteriorData":{"AnotherName":"The Greencroft Grange","MapId":208874,"LocationId":8002,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMBA08.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":224,"ClimateType":0,"NatureSet":503,"GroundArchive":2,"NatureArchive":503,"SkyBase":8,"People":2,"Names":0},"Politic":23,"RegionIndex":151,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "The Greencroft Grange",
+    "RegionName": "Wayrest",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 208874,
+        "Latitude": 37248,
+        "Longitude": 111872,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 8002
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28653568,
+                "Y": 6830081,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 8002,
+                "IsInterior": 0,
+                "ExteriorLocationId": 8002,
+                "LocationName": "The Greencroft Grange"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 2463,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 39715,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 15,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 27278,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 20552,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 26328,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 39662,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 51831,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 37941,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 5857,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 59845,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 11814,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 51985,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 51465,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 11076,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 65331,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 18801,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 58257,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 62759,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 45452,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 50672,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 31518,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 57800,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 40968,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 57640,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 53517,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 49370,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 46475,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 52871,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 17499,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 35415,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 34559,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 16397,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 6
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Greencroft Grange",
+            "MapId": 208874,
+            "LocationId": 8002,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA00_REW.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": 0,
+        "NatureSet": 503,
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": 2,
+        "Names": 0
+    },
+    "Politic": 23,
+    "RegionIndex": 151,
+    "LocationIndex": 0
+}

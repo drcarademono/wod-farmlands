@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"The Old Shrizti Orchard","RegionName":"Sentinel","HasDungeon":false,"MapTableData":{"MapId":394320,"Latitude":13440,"Longitude":40960,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":5760},"Exterior":{"RecordElement":{"Header":{"X":10500096,"Y":12924929,"IsExterior":32768,"Unknown2":0,"LocationId":5760,"IsInterior":0,"ExteriorLocationId":5760,"LocationName":"The Old Shrizti Orchard"}},"BuildingCount":32,"Buildings":[{"NameSeed":17959,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":21782,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":35479,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":46406,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":21328,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":4},{"NameSeed":90,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":45277,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":29522,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":48646,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":17},{"NameSeed":65471,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":60105,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":61792,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":40729,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":30416,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":52186,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":14},{"NameSeed":52859,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":55857,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":48536,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":15754,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":19113,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":64347,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":45989,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":34989,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":20},{"NameSeed":23593,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":57961,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":32623,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":9},{"NameSeed":65374,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":9},{"NameSeed":14984,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":16456,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":10},{"NameSeed":11617,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":18},{"NameSeed":31178,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":5},{"NameSeed":36707,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":8}],"ExteriorData":{"AnotherName":"The Old Shrizti Orchard","MapId":394320,"LocationId":5760,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMAA01.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":230,"ClimateType":300,"NatureSet":506,"GroundArchive":102,"NatureArchive":506,"SkyBase":16,"People":3,"Names":0},"Politic":20,"RegionIndex":148,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "The Old Shrizti Orchard",
+    "RegionName": "Sentinel",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 394320,
+        "Latitude": 13440,
+        "Longitude": 40960,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 5760
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 10500096,
+                "Y": 12924929,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 5760,
+                "IsInterior": 0,
+                "ExteriorLocationId": 5760,
+                "LocationName": "The Old Shrizti Orchard"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 17959,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 21782,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 35479,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 46406,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 21328,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 90,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 45277,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 29522,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 48646,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 65471,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 60105,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 61792,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 40729,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 30416,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 52186,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 52859,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 55857,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 48536,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 15754,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 19113,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 64347,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 45989,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 34989,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 23593,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 57961,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 32623,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 65374,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 14984,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 16456,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 11617,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 31178,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 36707,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 8
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Shrizti Orchard",
+            "MapId": 394320,
+            "LocationId": 5760,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00_TEW.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 230,
+        "ClimateType": 300,
+        "NatureSet": 506,
+        "GroundArchive": 102,
+        "NatureArchive": 506,
+        "SkyBase": 16,
+        "People": 3,
+        "Names": 0
+    },
+    "Politic": 20,
+    "RegionIndex": 148,
+    "LocationIndex": 0
+}

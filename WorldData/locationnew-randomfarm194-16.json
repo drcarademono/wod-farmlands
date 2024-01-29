@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"The Old Ashhart Farm","RegionName":"Wrothgarian Mountains","HasDungeon":false,"MapTableData":{"MapId":38872,"Latitude":59008,"Longitude":111616,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":4228},"Exterior":{"RecordElement":{"Header":{"X":28588032,"Y":1259521,"IsExterior":32768,"Unknown2":0,"LocationId":4228,"IsInterior":0,"ExteriorLocationId":4228,"LocationName":"The Old Ashhart Farm"}},"BuildingCount":32,"Buildings":[{"NameSeed":55795,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":52296,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":15,"Quality":9},{"NameSeed":49043,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":17},{"NameSeed":50193,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":4},{"NameSeed":32334,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":52448,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":20},{"NameSeed":20930,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":4},{"NameSeed":54188,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":16},{"NameSeed":51109,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":49319,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":57798,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":38431,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":32626,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":26805,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":12661,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":61394,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":17},{"NameSeed":39592,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":54295,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":45587,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":7406,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":11365,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":49536,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":51889,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":35620,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":46620,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":53044,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":14},{"NameSeed":18192,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":2},{"NameSeed":16951,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":28333,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":7},{"NameSeed":32109,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":7},{"NameSeed":4012,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":10},{"NameSeed":1987,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":14}],"ExteriorData":{"AnotherName":"The Old Ashhart Farm","MapId":38872,"LocationId":4228,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMAA08.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":227,"ClimateType":400,"NatureSet":500,"GroundArchive":402,"NatureArchive":500,"SkyBase":24,"People":2,"Names":0},"Politic":16,"RegionIndex":144,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "The Old Ashhart Farm",
+    "RegionName": "Wrothgarian Mountains",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 38872,
+        "Latitude": 59008,
+        "Longitude": 111616,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 4228
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 28588032,
+                "Y": 1259521,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 4228,
+                "IsInterior": 0,
+                "ExteriorLocationId": 4228,
+                "LocationName": "The Old Ashhart Farm"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 55795,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 52296,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 15,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 49043,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 50193,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 32334,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 52448,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 20930,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 54188,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 51109,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 49319,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 57798,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 38431,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 32626,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 26805,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 12661,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 61394,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 39592,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 54295,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 45587,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 7406,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 11365,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 49536,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 51889,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 35620,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 46620,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 53044,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 18192,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 16951,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 28333,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 32109,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 4012,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 1987,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Old Ashhart Farm",
+            "MapId": 38872,
+            "LocationId": 4228,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00_TSENW.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 227,
+        "ClimateType": 400,
+        "NatureSet": 500,
+        "GroundArchive": 402,
+        "NatureArchive": 500,
+        "SkyBase": 24,
+        "People": 2,
+        "Names": 0
+    },
+    "Politic": 16,
+    "RegionIndex": 144,
+    "LocationIndex": 0
+}

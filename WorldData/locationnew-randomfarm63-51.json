@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"The Farc-i Plantation","RegionName":"Totambu","HasDungeon":false,"MapTableData":{"MapId":337930,"Latitude":20736,"Longitude":119040,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":1984},"Exterior":{"RecordElement":{"Header":{"X":30488576,"Y":11057153,"IsExterior":32768,"Unknown2":0,"LocationId":1984,"IsInterior":0,"ExteriorLocationId":1984,"LocationName":"The Farc-i Plantation"}},"BuildingCount":32,"Buildings":[{"NameSeed":55481,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":17,"Quality":1},{"NameSeed":15071,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":26082,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":9},{"NameSeed":44875,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":20},{"NameSeed":1367,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":38041,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":17},{"NameSeed":48160,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":15,"Quality":10},{"NameSeed":33385,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":40714,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":15712,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":63892,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":5884,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":9909,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":1},{"NameSeed":31189,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":25805,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":62805,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":11},{"NameSeed":18719,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":29381,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":32200,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":19741,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":36754,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":9},{"NameSeed":65247,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":48129,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":12},{"NameSeed":21929,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":46465,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":43750,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":4},{"NameSeed":5304,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":5},{"NameSeed":20250,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":48251,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":20},{"NameSeed":45340,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":19},{"NameSeed":53378,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":10},{"NameSeed":1247,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":14}],"ExteriorData":{"AnotherName":"The Farc-i Plantation","MapId":337930,"LocationId":1984,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMAA09.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":228,"ClimateType":400,"NatureSet":502,"GroundArchive":402,"NatureArchive":502,"SkyBase":24,"People":3,"Names":0},"Politic":51,"RegionIndex":179,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "The Farc-i Plantation",
+    "RegionName": "Totambu",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 337930,
+        "Latitude": 20736,
+        "Longitude": 119040,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 1984
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 30488576,
+                "Y": 11057153,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 1984,
+                "IsInterior": 0,
+                "ExteriorLocationId": 1984,
+                "LocationName": "The Farc-i Plantation"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 55481,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 17,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 15071,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 26082,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 44875,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 1367,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 38041,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 48160,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 15,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 33385,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 40714,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 15712,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 63892,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 5884,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 9909,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 31189,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 25805,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 62805,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 18719,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 29381,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 32200,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 19741,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 36754,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 65247,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 48129,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 21929,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 46465,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 43750,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 5304,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 20250,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 48251,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 45340,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 53378,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 1247,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 14
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Farc-i Plantation",
+            "MapId": 337930,
+            "LocationId": 1984,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00_RNS.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": 400,
+        "NatureSet": 502,
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": 3,
+        "Names": 0
+    },
+    "Politic": 51,
+    "RegionIndex": 179,
+    "LocationIndex": 0
+}

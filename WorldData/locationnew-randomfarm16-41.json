@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"Kingford Grange","RegionName":"Daenia","HasDungeon":false,"MapTableData":{"MapId":69382,"Latitude":55040,"Longitude":48896,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":1396},"Exterior":{"RecordElement":{"Header":{"X":12531712,"Y":2275329,"IsExterior":32768,"Unknown2":0,"LocationId":1396,"IsInterior":0,"ExteriorLocationId":1396,"LocationName":"Kingford Grange"}},"BuildingCount":32,"Buildings":[{"NameSeed":33195,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":17},{"NameSeed":22055,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":6},{"NameSeed":22445,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":6},{"NameSeed":19571,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":4},{"NameSeed":35853,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":15},{"NameSeed":8728,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":4},{"NameSeed":42891,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":483,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":15},{"NameSeed":40787,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":26920,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":37185,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":344,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":51727,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":20},{"NameSeed":28310,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":7005,"FactionId":236,"Sector":0,"LocationId":0,"BuildingType":2,"Quality":1},{"NameSeed":63954,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":43401,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":7},{"NameSeed":60508,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":17532,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":14},{"NameSeed":52187,"FactionId":510,"Sector":0,"LocationId":0,"BuildingType":6,"Quality":12},{"NameSeed":8696,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":49258,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":15},{"NameSeed":28499,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":9},{"NameSeed":61315,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":10036,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":20},{"NameSeed":34572,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":16},{"NameSeed":22060,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":12},{"NameSeed":61015,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":19327,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":54881,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":22758,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":20},{"NameSeed":54272,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":0,"Quality":7}],"ExteriorData":{"AnotherName":"Kingford Grange","MapId":69382,"LocationId":1396,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMBA00.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":224,"ClimateType":0,"NatureSet":503,"GroundArchive":2,"NatureArchive":503,"SkyBase":8,"People":2,"Names":0},"Politic":41,"RegionIndex":169,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "Kingford Grange",
+    "RegionName": "Daenia",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 69382,
+        "Latitude": 55040,
+        "Longitude": 48896,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 1396
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 12531712,
+                "Y": 2275329,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 1396,
+                "IsInterior": 0,
+                "ExteriorLocationId": 1396,
+                "LocationName": "Kingford Grange"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 33195,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 22055,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 22445,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 19571,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 35853,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 8728,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 4
+            },
+            {
+                "NameSeed": 42891,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 483,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 40787,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 26920,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 37185,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 344,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 51727,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 28310,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 7005,
+                "FactionId": 236,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 2,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 63954,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 43401,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 60508,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 17532,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 14
+            },
+            {
+                "NameSeed": 52187,
+                "FactionId": 510,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 6,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 8696,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 49258,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 15
+            },
+            {
+                "NameSeed": 28499,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 61315,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 10036,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 34572,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 22060,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 61015,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 19327,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 54881,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 22758,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 54272,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 0,
+                "Quality": 7
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "Kingford Grange",
+            "MapId": 69382,
+            "LocationId": 1396,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMBA00_TSENW.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 224,
+        "ClimateType": 0,
+        "NatureSet": 503,
+        "GroundArchive": 2,
+        "NatureArchive": 503,
+        "SkyBase": 8,
+        "People": 2,
+        "Names": 0
+    },
+    "Politic": 41,
+    "RegionIndex": 169,
+    "LocationIndex": 0
+}

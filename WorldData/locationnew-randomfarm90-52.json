@@ -1,1 +1,331 @@
-{"Loaded":true,"Name":"The Foz-si Grange","RegionName":"Mournoth","HasDungeon":false,"MapTableData":{"MapId":291970,"Latitude":26624,"Longitude":124160,"LocationType":3,"DungeonType":255,"Discovered":false,"Key":0,"LocationId":5792},"Exterior":{"RecordElement":{"Header":{"X":31799296,"Y":9549825,"IsExterior":32768,"Unknown2":0,"LocationId":5792,"IsInterior":0,"ExteriorLocationId":5792,"LocationName":"The Foz-si Grange"}},"BuildingCount":32,"Buildings":[{"NameSeed":5452,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":9},{"NameSeed":23538,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":12},{"NameSeed":48439,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":6},{"NameSeed":16747,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":7},{"NameSeed":29249,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":20},{"NameSeed":21547,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":21,"Quality":6},{"NameSeed":32826,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":12},{"NameSeed":28340,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":36829,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":41333,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":2},{"NameSeed":38590,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":11},{"NameSeed":6208,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":41778,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":62951,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":10217,"FactionId":236,"Sector":0,"LocationId":0,"BuildingType":2,"Quality":5},{"NameSeed":47819,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":19},{"NameSeed":7188,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":10},{"NameSeed":48328,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":6},{"NameSeed":48299,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":59905,"FactionId":510,"Sector":0,"LocationId":0,"BuildingType":6,"Quality":5},{"NameSeed":64334,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":5},{"NameSeed":7360,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":8},{"NameSeed":20522,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":19,"Quality":16},{"NameSeed":40865,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":13},{"NameSeed":47019,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":1},{"NameSeed":18456,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":12},{"NameSeed":61738,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":3},{"NameSeed":32071,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":8},{"NameSeed":37547,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":17},{"NameSeed":62056,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":18},{"NameSeed":23164,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":18,"Quality":17},{"NameSeed":12131,"FactionId":0,"Sector":0,"LocationId":0,"BuildingType":0,"Quality":12}],"ExteriorData":{"AnotherName":"The Foz-si Grange","MapId":291970,"LocationId":5792,"Width":1,"Height":1,"PortTownAndUnknown":0,"BlockNames":["FARMAA00.RMB"]}},"Dungeon":{"RecordElement":{"Header":{"X":0,"Y":0,"IsExterior":0,"Unknown2":0,"LocationId":0,"IsInterior":0,"ExteriorLocationId":0,"LocationName":null}},"Header":{"BlockCount":0},"Blocks":null},"Climate":{"WorldClimate":228,"ClimateType":400,"NatureSet":502,"GroundArchive":402,"NatureArchive":502,"SkyBase":24,"People":3,"Names":0},"Politic":52,"RegionIndex":180,"LocationIndex":0}
+{
+    "Loaded": true,
+    "Name": "The Foz-si Grange",
+    "RegionName": "Mournoth",
+    "HasDungeon": false,
+    "MapTableData": {
+        "MapId": 291970,
+        "Latitude": 26624,
+        "Longitude": 124160,
+        "LocationType": 3,
+        "DungeonType": 255,
+        "Discovered": false,
+        "Key": 0,
+        "LocationId": 5792
+    },
+    "Exterior": {
+        "RecordElement": {
+            "Header": {
+                "X": 31799296,
+                "Y": 9549825,
+                "IsExterior": 32768,
+                "Unknown2": 0,
+                "LocationId": 5792,
+                "IsInterior": 0,
+                "ExteriorLocationId": 5792,
+                "LocationName": "The Foz-si Grange"
+            }
+        },
+        "BuildingCount": 32,
+        "Buildings": [
+            {
+                "NameSeed": 5452,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 9
+            },
+            {
+                "NameSeed": 23538,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 48439,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 16747,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 7
+            },
+            {
+                "NameSeed": 29249,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 20
+            },
+            {
+                "NameSeed": 21547,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 21,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 32826,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 28340,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 36829,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 41333,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 2
+            },
+            {
+                "NameSeed": 38590,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 11
+            },
+            {
+                "NameSeed": 6208,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 41778,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 62951,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 10217,
+                "FactionId": 236,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 2,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 47819,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 19
+            },
+            {
+                "NameSeed": 7188,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 10
+            },
+            {
+                "NameSeed": 48328,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 6
+            },
+            {
+                "NameSeed": 48299,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 59905,
+                "FactionId": 510,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 6,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 64334,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 5
+            },
+            {
+                "NameSeed": 7360,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 20522,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 19,
+                "Quality": 16
+            },
+            {
+                "NameSeed": 40865,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 13
+            },
+            {
+                "NameSeed": 47019,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 1
+            },
+            {
+                "NameSeed": 18456,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 12
+            },
+            {
+                "NameSeed": 61738,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 3
+            },
+            {
+                "NameSeed": 32071,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 8
+            },
+            {
+                "NameSeed": 37547,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 62056,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 18
+            },
+            {
+                "NameSeed": 23164,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 18,
+                "Quality": 17
+            },
+            {
+                "NameSeed": 12131,
+                "FactionId": 0,
+                "Sector": 0,
+                "LocationId": 0,
+                "BuildingType": 0,
+                "Quality": 12
+            }
+        ],
+        "ExteriorData": {
+            "AnotherName": "The Foz-si Grange",
+            "MapId": 291970,
+            "LocationId": 5792,
+            "Width": 1,
+            "Height": 1,
+            "PortTownAndUnknown": 0,
+            "BlockNames": [
+                "FARMAA00_TEW.RMB"
+            ]
+        }
+    },
+    "Dungeon": {
+        "RecordElement": {
+            "Header": {
+                "X": 0,
+                "Y": 0,
+                "IsExterior": 0,
+                "Unknown2": 0,
+                "LocationId": 0,
+                "IsInterior": 0,
+                "ExteriorLocationId": 0,
+                "LocationName": null
+            }
+        },
+        "Header": {
+            "BlockCount": 0
+        },
+        "Blocks": null
+    },
+    "Climate": {
+        "WorldClimate": 228,
+        "ClimateType": 400,
+        "NatureSet": 502,
+        "GroundArchive": 402,
+        "NatureArchive": 502,
+        "SkyBase": 24,
+        "People": 3,
+        "Names": 0
+    },
+    "Politic": 52,
+    "RegionIndex": 180,
+    "LocationIndex": 0
+}
